@@ -2,8 +2,14 @@
 ; Modules
 ;;;;;;;;;
 
+projects[entity][subdir] = contrib
+projects[entity][version] = 1.2
+
 projects[file_entity][subdir] = contrib
 projects[file_entity][version] = 2.0-alpha2
+
+projects[google_analytics][subdir] = contrib
+projects[google_analytics][version] = 1.x-dev
 
 projects[mailchimp][subdir] = contrib
 projects[mailchimp][version] = 2.12
