@@ -22,6 +22,9 @@ projects[metatag][version] = 1.0-beta7
 projects[module_filter][subdir] = contrib
 projects[module_filter][version] = 1.8
 
+projects[mollom][subdir] = contrib
+projects[mollom][version] = 2.7
+
 projects[site_verify][subdir] = contrib
 projects[site_verify][version] = 1.0
 
