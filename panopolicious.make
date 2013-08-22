@@ -5,6 +5,14 @@
 projects[file_entity][subdir] = contrib
 projects[file_entity][version] = 2.0-alpha2
 
+projects[mailchimp][subdir] = contrib
+projects[mailchimp][version] = 2.12
+
+libraries[mailchimp][download][type] = "get"
+libraries[mailchimp][download][url] = "http://apidocs.mailchimp.com/api/downloads/mailchimp-api-class.zip"
+libraries[mailchimp][directory_name] = "mailchimp"
+libraries[mailchimp][destination] = "libraries"
+
 projects[media][subdir] = contrib
 projects[media][version] = 2.0-alpha2
 
