@@ -6,10 +6,10 @@ projects[entity][subdir] = contrib
 projects[entity][version] = 1.2
 
 projects[file_entity][subdir] = contrib
-projects[file_entity][version] = 2.0-alpha2
+projects[file_entity][version] = 2.0-alpha3
 
 projects[google_analytics][subdir] = contrib
-projects[google_analytics][version] = 1.x-dev
+projects[google_analytics][version] = 1.4
 
 projects[mailchimp][subdir] = contrib
 projects[mailchimp][version] = 2.12
@@ -20,7 +20,7 @@ libraries[mailchimp][directory_name] = "mailchimp"
 libraries[mailchimp][destination] = "libraries"
 
 projects[media][subdir] = contrib
-projects[media][version] = 2.0-alpha2
+projects[media][version] = 2.0-alpha3
 
 projects[metatag][subdir] = contrib
 projects[metatag][version] = 1.0-beta7
@@ -52,7 +52,7 @@ projects[httprl][subdir] = contrib
 projects[httprl][version] = 1.12
 
 projects[entitycache][subdir] = contrib 
-projects[entitycache][version] = 1.x-dev
+projects[entitycache][version] = 1.2
 
 ;;;;;;;;;
 ; Themes
