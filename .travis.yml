@@ -18,7 +18,7 @@ before_script:
   - drush make --prepare-install build-panopolicious.make ../vih.dk --yes
   - cd ../vih.dk
   - sudo chmod -R 777 sites/all/modules
-  - drush si panopoly --db-url=mysql://root:@127.0.0.1/drupal --account-name=admin --account-pass=VIH@2012 --site-mail=admin@example.com --site-name="vih.dk" --yes
+  - php -d sendmail_path=/dev/null `which drush` si panopoly --db-url=mysql://root:@127.0.0.1/drupal --account-name=admin --account-pass=VIH@2012 --site-mail=admin@example.com --site-name="Panopolicious" --yes
   - drush cc all --yes
   - cd ../panopolicious
 
