@@ -1,0 +1,26 @@
+language: php
+
+php:
+  - 5.3
+
+mysql:
+  database: drupal
+  username: root
+  encoding: utf8
+
+install:
+  - "mysql -e 'create database drupal;'"
+  - pear channel-discover pear.drush.org
+  - pear install drush/drush
+  - phpenv rehash
+
+before_script:
+  - drush make --prepare-install build-panopolicious.make ../vih.dk --yes
+  - cd ../vih.dk
+  - sudo chmod -R 777 sites/all/modules
+  - drush si panopoly --db-url=mysql://root:@127.0.0.1/drupal --account-name=admin --account-pass=VIH@2012 --site-mail=admin@example.com --site-name="vih.dk" --yes
+  - drush cc all --yes
+  - cd ../panopolicious
+
+script: 
+  - test -d ../vih.dk/sites/all/modules/contrib
