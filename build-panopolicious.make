@@ -8,5 +8,5 @@ includes[] = https://raw.github.com/lsolesen/panopolicious/dev/drupal-org.make
 projects[panopoly][type] = profile
 projects[panopoly][download][type] = git
 projects[panopoly][download][branch] = 7.x-1.x
-projects[panopoly][download][revision] = c316a438d3b1e4db898ca6ac835486fe90552ce4
+#projects[panopoly][download][revision] = c316a438d3b1e4db898ca6ac835486fe90552ce4
 
