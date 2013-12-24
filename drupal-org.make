@@ -1,3 +1,10 @@
+;;;;;;;;;;
+; Panopoly
+;;;;;;;;;;
+
+projects[panopoly_news][subdir] = contrib
+projects[panopoly_news][version] = 1.0-rc2
+
 ;;;;;;;;;
 ; Modules
 ;;;;;;;;;
@@ -13,6 +20,12 @@ libraries[colorbox][download][type] = "get"
 libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/master.zip"
 libraries[colorbox][directory_name] = ""
 libraries[colorbox][destination] = "libraries"
+
+projects[easy_social][subdir] = contrib
+projects[easy_social][version] = 2.10
+
+projects[globalredirect][subdir] = contrib
+projects[globalredirect][version] = 1.5
 
 projects[google_analytics][subdir] = contrib
 projects[google_analytics][version] = 1.4
@@ -31,14 +44,54 @@ projects[metatag][version] = 1.0-beta7
 projects[mollom][subdir] = contrib
 projects[mollom][version] = 2.7
 
+projects[panels_extra_styles][subdir] = contrib
+projects[panels_extra_styles][version] = 1.1
+
+projects[pdf_reader][subdir] = contrib
+projects[pdf_reader][version] = 1.0-rc4
+
+projects[robotstxt][subdir] = contrib
+projects[robotstxt][version] = 1.1
+
+projects[select_or_other][subdir] = contrib
+projects[select_or_other][version] = 2.19
+
 projects[site_verify][subdir] = contrib
 projects[site_verify][version] = 1.0
+
+projects[stringoverrides][subdir] = contrib
+projects[stringoverrides][version] = 1.8
 
 projects[token_tweaks][subdir] = contrib
 projects[token_tweaks][version] = 1.x-dev
 
+projects[userreport][subdir] = contrib
+projects[userreport][version] = 1.0-alpha4
+
+projects[variable][subdir] = contrib
+projects[variable][version] = 2.3
+
+projects[webform][subdir] = contrib
+projects[webform][version] = 3.19
+
+projects[webform_mailchimp][subdir] = contrib
+projects[webform_mailchimp][version] = 1.0-rc2
+
+projects[views_data_export][subdir] = contrib
+projects[views_data_export][version] = 3.0-beta6
+
 projects[views_responsive_grid][subdir] = contrib
 projects[views_responsive_grid][version] = 1.3
+
+;;;;;;;;;;;;;
+; Fields
+;;;;;;;;;;;;;
+
+projects[addressfield][subdir] = contrib
+projects[addressfield][version] = 1.0-beta5
+
+projects[addressfield_tokens][subdir] = contrib
+projects[addressfield_tokens][version] = 1.3
 
 ;;;;;;;;;;;;;
 ; Commerce
@@ -62,6 +115,13 @@ projects[commerce_autosku][version] = 1.1
 
 projects[commerce_backoffice][subdir] = contrib
 projects[commerce_backoffice][version] = 1.x-dev
+
+projects[commerce_bank_transfer][subdir] = contrib
+projects[commerce_bank_transfer][version] = 1.0-alpha3
+projects[commerce_bank_transfer][patch][1788790] = http://drupal.org/files/issue-1788790.patch
+
+projects[commerce_donate][subdir] = contrib
+projects[commerce_donate][version] = 1.x-dev
 
 projects[eva][subdir] = contrib
 projects[eva][version] = 1.x-dev
@@ -146,3 +206,6 @@ projects[radix_layouts][version] = 1.x-dev
 
 projects[radix_core][subdir] = contrib
 projects[radix_core][version] = 1.x-dev
+
+projects[plate][subdir] = contrib
+projects[plate][version] = 1.x-dev
