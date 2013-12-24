@@ -2,6 +2,18 @@
 ; Modules
 ;;;;;;;;;
 
+projects[coffee][subdir] = contrib
+projects[coffee][version] = 2.0
+
+projects[colorbox][subdir] = contrib
+projects[colorbox][version] = 2.5
+
+; http://drupal.org/node/2088137 for this to be not needed
+libraries[colorbox][download][type] = "get"
+libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/master.zip"
+libraries[colorbox][directory_name] = ""
+libraries[colorbox][destination] = "libraries"
+
 projects[google_analytics][subdir] = contrib
 projects[google_analytics][version] = 1.4
 
@@ -24,6 +36,83 @@ projects[site_verify][version] = 1.0
 
 projects[token_tweaks][subdir] = contrib
 projects[token_tweaks][version] = 1.x-dev
+
+projects[views_responsive_grid][subdir] = contrib
+projects[views_responsive_grid][version] = 1.3
+
+;;;;;;;;;;;;;
+; Commerce
+;;;;;;;;;;;;;
+
+projects[commerce][subdir] = contrib  
+projects[commerce][version] = 1.8
+projects[commerce][patch][840786] = http://drupal.org/files/840786-add-account-info-2.patch
+
+projects[commerce_addressbook][subdir] = contrib
+projects[commerce_addressbook][version] = 2.0-rc7
+
+projects[commerce_add_to_cart_notification][type] = "module"
+projects[commerce_add_to_cart_notification][subdir] = "contrib"
+projects[commerce_add_to_cart_notification][download][type] = "git"
+projects[commerce_add_to_cart_notification][download][url] = "git://github.com/vih/commerce_add_to_cart_notification.git"
+projects[commerce_add_to_cart_notification][download][branch] = 7.x-1.x
+
+projects[commerce_autosku][subdir] = contrib  
+projects[commerce_autosku][version] = 1.1
+
+projects[commerce_backoffice][subdir] = contrib
+projects[commerce_backoffice][version] = 1.x-dev
+
+projects[eva][subdir] = contrib
+projects[eva][version] = 1.x-dev
+
+projects[views_megarow][subdir] = contrib
+projects[views_megarow][version] = 1.x-dev
+
+projects[commerce_cart_expiration][subdir] = contrib  
+projects[commerce_cart_expiration][version] = 1.1
+
+projects[commerce_checkout_progress][subdir] = contrib
+projects[commerce_checkout_progress][version] = 1.3
+
+projects[commerce_coupon][subdir] = contrib  
+projects[commerce_coupon][version] = 1.0-beta7
+
+projects[commerce_coupon_fixed_amount][subdir] = contrib  
+projects[commerce_coupon_fixed_amount][version] = 1.0-beta7
+
+projects[commerce_coupon_pct][subdir] = contrib  
+projects[commerce_coupon_pct][version] = 1.0-beta7
+
+projects[commerce_custom_product][subdir] = contrib
+projects[commerce_custom_product][version] = 1.0-beta2
+
+projects[commerce_discount][subdir] = contrib  
+projects[commerce_discount][version] = 1.x-dev
+
+projects[commerce_features][subdir] = contrib
+projects[commerce_features][version] = 1.0
+
+projects[commerce_google_analytics][subdir] = contrib
+projects[commerce_google_analytics][version] = 1.1
+
+projects[commerce_message][subdir] = contrib
+projects[commerce_message][version] = 1.0-rc1
+
+projects[commerce_reports][subdir] = contrib
+projects[commerce_reports][version] = 3.0-beta2
+
+projects[commerce_stock][subdir] = contrib
+projects[commerce_stock][version] = 1.2
+
+projects[inline_entity_form][subdir] = contrib
+projects[inline_entity_form][version] = 1.3
+
+projects[quickpay][subdir] = contrib
+projects[quickpay][version] = 1.9
+
+projects[visualization][subdir] = contrib
+projects[visualization][version] = 1.0-alpha1
 
 ;;;;;;;;;;;;;
 ; Performance
