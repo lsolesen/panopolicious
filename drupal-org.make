@@ -53,6 +53,9 @@ projects[pdf_reader][version] = 1.0-rc4
 projects[robotstxt][subdir] = contrib
 projects[robotstxt][version] = 1.1
 
+projects[rules][subdir] = contrib
+projects[rules][version] = 2.6
+
 projects[select_or_other][subdir] = contrib
 projects[select_or_other][version] = 2.19
 
