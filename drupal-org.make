@@ -5,6 +5,25 @@
 projects[panopoly_news][subdir] = contrib
 projects[panopoly_news][version] = 1.0-rc2
 
+;;;;;;;:; 
+; BOA
+;;;;;;;;;
+
+projects[expire][subdir] = contrib
+projects[expire][version] = 1.x-dev
+
+projects[filefield_nginx_progress][subdir] = contrib
+projects[filefield_nginx_progress][version] = 2.x-dev
+
+projects[purge][subdir] = contrib
+projects[purge][version] = 1.6
+
+projects[readonlymode][subdir] = contrib
+projects[readonlymode][version] = 1.1
+
+projects[seckit][subdir] = contrib
+projects[seckit][version] = 1.8
+
 ;;;;;;;;;
 ; Modules
 ;;;;;;;;;
