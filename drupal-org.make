@@ -30,6 +30,9 @@ projects[globalredirect][version] = 1.5
 projects[google_analytics][subdir] = contrib
 projects[google_analytics][version] = 1.4
 
+projects[logintoboggan][subdir] = contrib
+projects[logintoboggan][version] = 1.3
+
 projects[mailchimp][subdir] = contrib
 projects[mailchimp][version] = 2.12
 
