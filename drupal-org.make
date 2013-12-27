@@ -5,6 +5,16 @@
 projects[panopoly_news][subdir] = contrib
 projects[panopoly_news][version] = 1.0-rc2
 
+;;;;;;;;;;
+; UNTIL PANOPOLY CATCHES UP
+;;;;;;;;;;
+
+projects[media][subdir] = contrib
+projects[media][version] = 2.x-dev
+
+projects[wysiwyg][subdir] = contrib
+projects[wysiwyg][version] = 2.x-dev
+
 ;;;;;;;:; 
 ; BOA
 ;;;;;;;;;
@@ -39,6 +49,9 @@ libraries[colorbox][download][type] = "get"
 libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/master.zip"
 libraries[colorbox][directory_name] = ""
 libraries[colorbox][destination] = "libraries"
+
+projects[date_ical][subdir] = contrib
+projects[date_ical][version] = 2.13
 
 projects[easy_social][subdir] = contrib
 projects[easy_social][version] = 2.10
