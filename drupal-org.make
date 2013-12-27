@@ -56,6 +56,12 @@ projects[date_ical][version] = 2.13
 projects[easy_social][subdir] = contrib
 projects[easy_social][version] = 2.10
 
+projects[feeds][subdir] = contrib
+projects[feeds][version] = 2.0-alpha8
+
+projects[job_scheduler][subdir] = contrib
+projects[job_scheduler][version] = 2.0-alpha3
+
 projects[globalredirect][subdir] = contrib
 projects[globalredirect][version] = 1.5
 
