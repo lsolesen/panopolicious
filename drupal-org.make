@@ -71,6 +71,9 @@ projects[globalredirect][version] = 1.5
 projects[google_analytics][subdir] = contrib
 projects[google_analytics][version] = 1.4
 
+projects[l10n_update][subdir] = contrib
+projects[l10n_update][version] = 1.x-dev
+
 projects[logintoboggan][subdir] = contrib
 projects[logintoboggan][version] = 1.3
 
@@ -202,6 +205,9 @@ projects[commerce_features][version] = 1.0
 
 projects[commerce_google_analytics][subdir] = contrib
 projects[commerce_google_analytics][version] = 1.1
+
+projects[commerce_mailchimp][subdir] = contrib
+projects[commerce_mailchimp][version] = 1.x-dev
 
 projects[commerce_message][subdir] = contrib
 projects[commerce_message][version] = 1.0-rc1
