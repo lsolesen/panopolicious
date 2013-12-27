@@ -12,6 +12,9 @@ projects[panopoly_news][version] = 1.0-rc2
 projects[media][subdir] = contrib
 projects[media][version] = 2.x-dev
 
+projects[media_youtube][subdir] = contrib
+projects[media_youtube][version] = 2.x-dev
+
 projects[wysiwyg][subdir] = contrib
 projects[wysiwyg][version] = 2.x-dev
 
