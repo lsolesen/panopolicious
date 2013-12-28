@@ -3,7 +3,7 @@
 ;;;;;;;;;;
 
 projects[panopoly_news][subdir] = contrib
-projects[panopoly_news][version] = 1.0-rc2
+projects[panopoly_news][version] = 1.0
 
 ;;;;;;;;;;
 ; UNTIL PANOPOLY CATCHES UP
