@@ -266,7 +266,7 @@ projects[radix_ui][subdir] = "contrib"
 projects[radix_ui][download][type] = "git"
 projects[radix_ui][download][url] = "http://git.drupal.org/project/radix_ui.git"
 projects[radix_ui][download][branch] = 7.x-1.x
-projects[radix_ui][download][revision] = 7.x-1.x5b377bc7ef5e25ef85c9610eab5ac017f4c807c5
+projects[radix_ui][download][revision] = 5b377bc7ef5e25ef85c9610eab5ac017f4c807c5
 
 projects[radix_admin][subdir] = contrib
 projects[radix_admin][version] = 1.x-dev
