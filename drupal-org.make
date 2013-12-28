@@ -255,6 +255,9 @@ projects[entitycache][version] = 1.2
 ; Themes
 ;;;;;;;;;
 
+projects[bootstrap_api][subdir] = contrib
+projects[bootstrap_api][version] = 1.0
+
 projects[radix][subdir] = contrib
 projects[radix][version] = 2.x-dev
 
