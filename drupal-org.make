@@ -2,8 +2,9 @@
 ; Panopoly
 ;;;;;;;;;;
 
-projects[panopoly_news][subdir] = contrib
+projects[panopoly_news][subdir] = panopoly
 projects[panopoly_news][version] = 1.0
+projects[panopoly_news][patch][2163873] = https://drupal.org/files/issues/issue-2163873.patch
 
 ;;;;;;;;;;
 ; UNTIL PANOPOLY CATCHES UP
