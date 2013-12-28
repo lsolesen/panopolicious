@@ -59,6 +59,9 @@ projects[date_ical][version] = 2.13
 projects[easy_social][subdir] = contrib
 projects[easy_social][version] = 2.10
 
+projects[entity][subdir] = contrib
+projects[entity][version] = 1.2
+
 projects[feeds][subdir] = contrib
 projects[feeds][version] = 2.0-alpha8
 
