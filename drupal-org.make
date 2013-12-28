@@ -91,6 +91,9 @@ libraries[mailchimp][destination] = "libraries"
 projects[metatag][subdir] = contrib
 projects[metatag][version] = 1.0-beta7
 
+projects[migrate][subdir] = contrib
+projects[migrate][version] = 2.x-dev
+
 projects[mollom][subdir] = contrib
 projects[mollom][version] = 2.7
 
