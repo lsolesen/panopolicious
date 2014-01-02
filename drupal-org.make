@@ -273,6 +273,7 @@ projects[radix_admin][version] = 1.x-dev
 
 projects[radix_layouts][subdir] = contrib
 projects[radix_layouts][version] = 1.x-dev
+projects[radix_layouts][patch][1906108] = https://drupal.org/files/selbyflipped-sutro.patch
 
 projects[radix_core][subdir] = contrib
 projects[radix_core][version] = 1.x-dev
