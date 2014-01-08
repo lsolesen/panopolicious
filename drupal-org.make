@@ -45,13 +45,7 @@ projects[coffee][subdir] = contrib
 projects[coffee][version] = 2.0
 
 projects[colorbox][subdir] = contrib
-projects[colorbox][version] = 2.5
-
-; http://drupal.org/node/2088137 for this to be not needed
-libraries[colorbox][download][type] = "get"
-libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/master.zip"
-libraries[colorbox][directory_name] = ""
-libraries[colorbox][destination] = "libraries"
+projects[colorbox][version] = 2.x-dev
 
 projects[date_ical][subdir] = contrib
 projects[date_ical][version] = 2.13
