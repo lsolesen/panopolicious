@@ -104,7 +104,7 @@ projects[rules][subdir] = contrib
 projects[rules][version] = 2.6
 
 projects[select_or_other][subdir] = contrib
-projects[select_or_other][version] = 2.19
+projects[select_or_other][version] = 2.20
 
 projects[site_verify][subdir] = contrib
 projects[site_verify][version] = 1.0
@@ -164,7 +164,7 @@ projects[commerce_autosku][subdir] = contrib
 projects[commerce_autosku][version] = 1.1
 
 projects[commerce_backoffice][subdir] = contrib
-projects[commerce_backoffice][version] = 1.x-dev
+projects[commerce_backoffice][version] = 1.4
 
 projects[commerce_bank_transfer][subdir] = contrib
 projects[commerce_bank_transfer][version] = 1.0-alpha3
@@ -219,7 +219,7 @@ projects[commerce_stock][subdir] = contrib
 projects[commerce_stock][version] = 1.2
 
 projects[inline_entity_form][subdir] = contrib
-projects[inline_entity_form][version] = 1.3
+projects[inline_entity_form][version] = 1.4
 
 projects[quickpay][subdir] = contrib
 projects[quickpay][version] = 1.9
