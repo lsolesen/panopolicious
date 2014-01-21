@@ -245,6 +245,13 @@ projects[entitycache][subdir] = contrib
 projects[entitycache][version] = 1.2
 
 ;;;;;;;;;
+; Internationalization
+;;;;;;;;;
+
+projects[i18n][version] = 1.10
+projects[i18n][subdir] = contrib
+
+;;;;;;;;;
 ; Themes
 ;;;;;;;;;
 
