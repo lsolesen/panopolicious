@@ -9,14 +9,23 @@ projects[panopoly_news][version] = 1.1
 ; UNTIL PANOPOLY CATCHES UP
 ;;;;;;;;;;
 
-projects[media][subdir] = contrib
 projects[media][version] = 2.x-dev
+projects[media][subdir] = contrib
+projects[media][download][type] = git
+projects[media][download][revision] = 2f828ea761103c49197a50aaeac9b98a350a559b
+projects[media][download][branch] = 7.x-2.x
 
-projects[media_youtube][subdir] = contrib
 projects[media_youtube][version] = 2.x-dev
+projects[media_youtube][subdir] = contrib
+projects[media_youtube][download][type] = git
+projects[media_youtube][download][revision] = fab87ce15d44a0a41d1fb908ace7983c7d28693c
+projects[media_youtube][download][branch] = 7.x-2.x
 
-projects[wysiwyg][subdir] = contrib
 projects[wysiwyg][version] = 2.x-dev
+projects[wysiwyg][subdir] = contrib
+projects[wysiwyg][download][type] = git
+projects[wysiwyg][download][revision] = ee64524b3edb2aa21098a2309b0736e292010247
+projects[wysiwyg][download][branch] = 7.x-2.x
 
 ;;;;;;;:; 
 ; BOA
