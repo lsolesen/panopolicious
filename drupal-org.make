@@ -91,7 +91,7 @@ projects[entity][subdir] = contrib
 projects[entity][version] = 1.2
 
 projects[feeds][subdir] = contrib
-projects[feeds][version] = 2.0-alpha8
+projects[feeds][version] = 2.x-dev
 
 projects[job_scheduler][subdir] = contrib
 projects[job_scheduler][version] = 2.0-alpha3
