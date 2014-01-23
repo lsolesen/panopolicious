@@ -43,6 +43,9 @@ projects[redirect][subdir] = contrib
 projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.1
 
+projects[token][version] = 1.5
+projects[token][subdir] = contrib
+
 projects[transliteration][subdir] = contrib
 projects[transliteration][version] = 3.1
 
