@@ -9,6 +9,9 @@ projects[panopoly_news][version] = 1.1
 ; UNTIL PANOPOLY CATCHES UP
 ;;;;;;;;;;
 
+projects[date][version] = 2.7
+projects[date][subdir] = contrib
+
 projects[media][version] = 2.x-dev
 projects[media][subdir] = contrib
 projects[media][download][type] = git
@@ -28,6 +31,22 @@ projects[wysiwyg][download][revision] = ee64524b3edb2aa21098a2309b0736e292010247
 projects[wysiwyg][download][branch] = 7.x-2.x
 
 ;;;;;;;:; 
+; Modules used in Buildthat
+;;;;;;;;;
+
+projects[better_formats][version] = 1.0-beta1
+projects[better_formats][subdir] = contrib
+
+projects[redirect][version] = 1.x-dev
+projects[redirect][subdir] = contrib
+
+projects[scheduler][subdir] = contrib
+projects[scheduler][version] = 1.1
+
+projects[transliteration][subdir] = contrib
+projects[transliteration][version] = 3.1
+
+;;;;;;;:; 
 ; BOA
 ;;;;;;;;;
 
@@ -45,6 +64,9 @@ projects[readonlymode][version] = 1.1
 
 projects[seckit][subdir] = contrib
 projects[seckit][version] = 1.8
+
+projects[views_content_cache][subdir] = contrib
+projects[views_content_cache][version] = 3.0-alpha3
 
 ;;;;;;;;;
 ; Modules
@@ -98,7 +120,7 @@ projects[migrate][subdir] = contrib
 projects[migrate][version] = 2.x-dev
 
 projects[mollom][subdir] = contrib
-projects[mollom][version] = 2.7
+projects[mollom][version] = 2.8
 
 projects[panels_extra_styles][subdir] = contrib
 projects[panels_extra_styles][version] = 1.1
