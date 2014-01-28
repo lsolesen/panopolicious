@@ -37,6 +37,12 @@ projects[wysiwyg][download][branch] = 7.x-2.x
 projects[better_formats][version] = 1.0-beta1
 projects[better_formats][subdir] = contrib
 
+projects[calendar][version] = 3.x-dev
+projects[calendar][subdir] = contrib
+
+projects[diff][version] = 3.x-dev
+projects[diff][subdir] = contrib
+
 projects[redirect][version] = 1.x-dev
 projects[redirect][subdir] = contrib
 
