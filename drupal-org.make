@@ -125,6 +125,9 @@ projects[migrate][version] = 2.x-dev
 projects[mollom][subdir] = contrib
 projects[mollom][version] = 2.8
 
+projects[pathauto_persist][subdir] = contrib
+projects[pathauto_persist][version] = 1.3
+
 projects[panels_extra_styles][subdir] = contrib
 projects[panels_extra_styles][version] = 1.1
 
