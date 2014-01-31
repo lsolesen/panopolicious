@@ -39,12 +39,22 @@ projects[better_formats][subdir] = contrib
 
 projects[calendar][version] = 3.x-dev
 projects[calendar][subdir] = contrib
+projects[calendar][download][type] = git
+projects[calendar][download][revision] = 17fceb75ad1d0e9ae6d4ec0004cdcfbac2f8ac56
+projects[calendar][download][branch] = 7.x-3.x
 
 projects[diff][version] = 3.x-dev
 projects[diff][subdir] = contrib
+projects[diff][download][type] = git
+projects[diff][download][revision] = 29ca19a003bfa1cb3fd4a86fe20aacae72e90767
+projects[diff][download][branch] = 7.x-3.x
 
 projects[redirect][version] = 1.x-dev
 projects[redirect][subdir] = contrib
+projects[redirect][download][type] = git
+projects[redirect][download][revision] = 0b7b8dc2d58cb277874d87c91c45f0a361e148f7
+projects[redirect][download][branch] = 7.x-1.x
+projects[redirect][patch][1796596] = http://drupal.org/files/redirect-circular-1796596-8.patch
 
 projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.1
@@ -59,14 +69,11 @@ projects[transliteration][version] = 3.1
 ; BOA
 ;;;;;;;;;
 
-projects[expire][subdir] = contrib
-projects[expire][version] = 1.x-dev
-
-projects[filefield_nginx_progress][subdir] = contrib
 projects[filefield_nginx_progress][version] = 2.x-dev
-
-projects[purge][subdir] = contrib
-projects[purge][version] = 1.6
+projects[filefield_nginx_progress][subdir] = contrib
+projects[filefield_nginx_progress][download][type] = git
+projects[filefield_nginx_progress][download][revision] = ca4d303754218325f49f84e1f5091108911ecb41
+projects[filefield_nginx_progress][download][branch] = 7.x-2.x
 
 projects[readonlymode][subdir] = contrib
 projects[readonlymode][version] = 1.1
@@ -84,8 +91,11 @@ projects[views_content_cache][version] = 3.0-alpha3
 projects[coffee][subdir] = contrib
 projects[coffee][version] = 2.0
 
-projects[colorbox][subdir] = contrib
 projects[colorbox][version] = 2.x-dev
+projects[colorbox][subdir] = contrib
+projects[colorbox][download][type] = git
+projects[colorbox][download][revision] = ce90f5dc259793c6762185091320cc5af169ae77
+projects[colorbox][download][branch] = 7.x-2.x
 
 projects[date_ical][subdir] = contrib
 projects[date_ical][version] = 2.13
@@ -95,9 +105,15 @@ projects[easy_social][version] = 2.10
 
 projects[email][subdir] = contrib
 projects[email][version] = 1.x-dev
+projects[email][download][type] = git
+projects[email][download][revision] = b4b5ec995e9a1ea55e1fca7fa57f54e4e95960b2
+projects[email][download][branch] = 7.x-1.x
 
-projects[feeds][subdir] = contrib
 projects[feeds][version] = 2.x-dev
+projects[feeds][subdir] = contrib
+projects[feeds][download][type] = git
+projects[feeds][download][revision] = bd71821a84740a21075e49f5b23a250da586bb67
+projects[feeds][download][branch] = 7.x-2.x
 
 projects[job_scheduler][subdir] = contrib
 projects[job_scheduler][version] = 2.0-alpha3
@@ -110,6 +126,9 @@ projects[google_analytics][version] = 1.4
 
 projects[l10n_update][subdir] = contrib
 projects[l10n_update][version] = 1.x-dev
+projects[l10n_update][download][type] = git
+projects[l10n_update][download][revision] = 20a80d1487dce4afad8b8b5a00b5aea5f2b9f2bc
+projects[l10n_update][download][branch] = 7.x-1.x
 
 projects[logintoboggan][subdir] = contrib
 projects[logintoboggan][version] = 1.3
@@ -127,6 +146,9 @@ projects[metatag][version] = 1.0-beta9
 
 projects[migrate][subdir] = contrib
 projects[migrate][version] = 2.x-dev
+projects[migrate][download][type] = git
+projects[migrate][download][revision] = 21895c810fc4beafe61389033445cb3b97586f05
+projects[migrate][download][branch] = 7.x-2.x
 
 projects[mollom][subdir] = contrib
 projects[mollom][version] = 2.8
