@@ -96,9 +96,6 @@ projects[easy_social][version] = 2.10
 projects[email][subdir] = contrib
 projects[email][version] = 1.x-dev
 
-projects[entity][subdir] = contrib
-projects[entity][version] = 1.2
-
 projects[feeds][subdir] = contrib
 projects[feeds][version] = 2.x-dev
 
