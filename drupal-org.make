@@ -320,28 +320,24 @@ projects[i18n][subdir] = contrib
 ; Themes
 ;;;;;;;;;
 
-projects[bootstrap_api][subdir] = contrib
-projects[bootstrap_api][version] = 1.0
-
-projects[radix][subdir] = contrib
-projects[radix][version] = 2.x-dev
-
-projects[radix_ui][type] = "module"
-projects[radix_ui][subdir] = "contrib"
-projects[radix_ui][download][type] = "git"
-projects[radix_ui][download][url] = "http://git.drupal.org/project/radix_ui.git"
-projects[radix_ui][download][branch] = 7.x-1.x
-projects[radix_ui][download][revision] = 5b377bc7ef5e25ef85c9610eab5ac017f4c807c5
-
-projects[radix_admin][subdir] = contrib
-projects[radix_admin][version] = 1.x-dev
-
-projects[radix_layouts][subdir] = contrib
-projects[radix_layouts][version] = 1.x-dev
-projects[radix_layouts][patch][1906108] = https://drupal.org/files/issues/selby-flipped_0.patch
-
+; Brings Radix, Radix Layouts and Radix Admin
 projects[radix_core][subdir] = contrib
-projects[radix_core][version] = 1.x-dev
+projects[radix_core][version] = 2.x-dev
+projects[radix_core][download][type] = git
+projects[radix_core][download][revision] = 7620d8058842628877f125cd54f6855c7d23fdc3
+projects[radix_core][download][branch] = 7.x-2.x
 
 projects[plate][subdir] = contrib
 projects[plate][version] = 1.x-dev
+projects[plate][download][type] = git
+projects[plate][download][revision] = 1d356218dc31678e2c7f0b28ac45c9bcdb27c12c
+projects[plate][download][branch] = 7.x-1.x
+
+projects[chef][subdir] = contrib
+projects[chef][version] = 1.x-dev
+projects[chef][download][type] = git
+projects[chef][download][revision] = d68040dfb082008570e32e5f97b1fc5f26761343
+projects[chef][download][branch] = 7.x-1.x
+projects[chef][patch][2124275] = https://drupal.org/files/issue-2124275.patch
+projects[chef][patch][2118989] = https://drupal.org/files/issue-2118989.patch
+projects[chef][patch][2068575] = https://drupal.org/files/issue-2068575.patch
