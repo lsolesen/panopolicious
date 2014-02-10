@@ -59,8 +59,8 @@ projects[redirect][patch][1796596] = http://drupal.org/files/redirect-circular-1
 projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.1
 
-projects[token][version] = 1.5
 projects[token][subdir] = contrib
+projects[token][version] = 1.5
 
 projects[transliteration][subdir] = contrib
 projects[transliteration][version] = 3.1
@@ -179,6 +179,9 @@ projects[stringoverrides][version] = 1.8
 
 projects[token_tweaks][subdir] = contrib
 projects[token_tweaks][version] = 1.x-dev
+projects[token_tweaks][download][type] = git
+projects[token_tweaks][download][revision] = 7232bbad4f53131021fefd490ba7f411b2287ea5
+projects[token_tweaks][download][branch] = 7.x-1.x
 
 projects[userreport][subdir] = contrib
 projects[userreport][version] = 1.0-alpha4
@@ -240,12 +243,21 @@ projects[commerce_bank_transfer][patch][1788790] = http://drupal.org/files/issue
 
 projects[commerce_donate][subdir] = contrib
 projects[commerce_donate][version] = 1.x-dev
+projects[commerce_donate][download][type] = git
+projects[commerce_donate][download][revision] = 18a6b8e2520810b84919755850879b450647cfe2
+projects[commerce_donate][download][branch] = 7.x-1.x
 
 projects[eva][subdir] = contrib
 projects[eva][version] = 1.x-dev
+projects[eva][download][type] = git
+projects[eva][download][revision] = 43eaba47defcf62cd6cff48c819689b68befa59a
+projects[eva][download][branch] = 7.x-1.x
 
 projects[views_megarow][subdir] = contrib
 projects[views_megarow][version] = 1.x-dev
+projects[views_megarow][download][type] = git
+projects[views_megarow][download][revision] = 992bf4a66b2106aacdc1f8fccee7391b2ed81265
+projects[views_megarow][download][branch] = 7.x-1.x
 
 projects[commerce_cart_expiration][subdir] = contrib  
 projects[commerce_cart_expiration][version] = 1.1
@@ -267,6 +279,9 @@ projects[commerce_custom_product][version] = 1.0-beta2
 
 projects[commerce_discount][subdir] = contrib  
 projects[commerce_discount][version] = 1.x-dev
+projects[commerce_discount][download][type] = git
+projects[commerce_discount][download][revision] = 986df2c879be1926fda0936d68fd3e72ef4ea92a
+projects[commerce_discount][download][branch] = 7.x-1.x
 
 projects[commerce_features][subdir] = contrib
 projects[commerce_features][version] = 1.0
@@ -276,6 +291,9 @@ projects[commerce_google_analytics][version] = 1.1
 
 projects[commerce_mailchimp][subdir] = contrib
 projects[commerce_mailchimp][version] = 1.x-dev
+projects[commerce_mailchimp][download][type] = git
+projects[commerce_mailchimp][download][revision] = e0a57df8a6058b082ecdebfeee90375d3cd91bdb
+projects[commerce_mailchimp][download][branch] = 7.x-1.x
 
 projects[commerce_message][subdir] = contrib
 projects[commerce_message][version] = 1.0-rc1
