@@ -198,6 +198,9 @@ projects[views_data_export][version] = 3.0-beta7
 projects[views_responsive_grid][subdir] = contrib
 projects[views_responsive_grid][version] = 1.3
 
+projects[views_slideshow][subdir] = contrib
+projects[views_slideshow][version] = 3.1
+
 ;;;;;;;;;;;;;
 ; Fields
 ;;;;;;;;;;;;;
