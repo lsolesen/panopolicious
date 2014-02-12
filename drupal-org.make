@@ -49,6 +49,9 @@ projects[diff][download][type] = git
 projects[diff][download][revision] = 29ca19a003bfa1cb3fd4a86fe20aacae72e90767
 projects[diff][download][branch] = 7.x-3.x
 
+projects[entityqueue][version] = 1.0-alpha1
+projects[entityqueue][subdir] = contrib
+
 projects[redirect][version] = 1.x-dev
 projects[redirect][subdir] = contrib
 projects[redirect][download][type] = git
