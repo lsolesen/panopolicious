@@ -193,7 +193,7 @@ projects[variable][subdir] = contrib
 projects[variable][version] = 2.4
 
 projects[webform][subdir] = contrib
-projects[webform][version] = 4.0-beta1
+projects[webform][version] = 4.0-beta3
 
 projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 2.0-beta1
@@ -345,7 +345,7 @@ projects[i18n][subdir] = contrib
 projects[radix_core][subdir] = contrib
 projects[radix_core][version] = 2.x-dev
 projects[radix_core][download][type] = git
-projects[radix_core][download][revision] = 7620d8058842628877f125cd54f6855c7d23fdc3
+projects[radix_core][download][revision] = 9d3eb0e59e22eb733a1dbf9360419994a03f449b
 projects[radix_core][download][branch] = 7.x-2.x
 
 projects[plate][subdir] = contrib
