@@ -60,7 +60,7 @@ projects[redirect][download][branch] = 7.x-1.x
 projects[redirect][patch][1796596] = http://drupal.org/files/redirect-circular-1796596-8.patch
 
 projects[scheduler][subdir] = contrib
-projects[scheduler][version] = 1.1
+projects[scheduler][version] = 1.2
 
 projects[token][subdir] = contrib
 projects[token][version] = 1.5
@@ -92,7 +92,7 @@ projects[date_ical][subdir] = contrib
 projects[date_ical][version] = 2.13
 
 projects[easy_social][subdir] = contrib
-projects[easy_social][version] = 2.10
+projects[easy_social][version] = 2.11
 
 projects[email][subdir] = contrib
 projects[email][version] = 1.x-dev
@@ -148,7 +148,7 @@ projects[panels_extra_styles][subdir] = contrib
 projects[panels_extra_styles][version] = 1.1
 
 projects[pdf_reader][subdir] = contrib
-projects[pdf_reader][version] = 1.0-rc4
+projects[pdf_reader][version] = 1.0-rc5
 
 projects[rules][subdir] = contrib
 projects[rules][version] = 2.6
@@ -290,7 +290,7 @@ projects[commerce_stock][subdir] = contrib
 projects[commerce_stock][version] = 1.2
 
 projects[inline_entity_form][subdir] = contrib
-projects[inline_entity_form][version] = 1.4
+projects[inline_entity_form][version] = 1.5
 
 projects[quickpay][subdir] = contrib
 projects[quickpay][version] = 1.9
