@@ -37,9 +37,6 @@ projects[wysiwyg][download][branch] = 7.x-2.x
 ; Modules used in Buildthat
 ;;;;;;;;;
 
-projects[better_formats][version] = 1.0-beta1
-projects[better_formats][subdir] = contrib
-
 projects[calendar][version] = 3.x-dev
 projects[calendar][subdir] = contrib
 projects[calendar][download][type] = git
@@ -75,18 +72,6 @@ projects[transliteration][version] = 3.1
 ; BOA
 ;;;;;;;;;
 
-projects[filefield_nginx_progress][version] = 2.x-dev
-projects[filefield_nginx_progress][subdir] = contrib
-projects[filefield_nginx_progress][download][type] = git
-projects[filefield_nginx_progress][download][revision] = ca4d303754218325f49f84e1f5091108911ecb41
-projects[filefield_nginx_progress][download][branch] = 7.x-2.x
-
-projects[readonlymode][subdir] = contrib
-projects[readonlymode][version] = 1.1
-
-projects[seckit][subdir] = contrib
-projects[seckit][version] = 1.8
-
 projects[views_content_cache][subdir] = contrib
 projects[views_content_cache][version] = 3.0-alpha3
 
@@ -120,6 +105,9 @@ projects[feeds][subdir] = contrib
 projects[feeds][download][type] = git
 projects[feeds][download][revision] = bd71821a84740a21075e49f5b23a250da586bb67
 projects[feeds][download][branch] = 7.x-2.x
+
+projects[features_override][version] = 2.0-rc1
+projects[features_override][subdir] = contrib
 
 projects[job_scheduler][subdir] = contrib
 projects[job_scheduler][version] = 2.0-alpha3
@@ -161,9 +149,6 @@ projects[panels_extra_styles][version] = 1.1
 
 projects[pdf_reader][subdir] = contrib
 projects[pdf_reader][version] = 1.0-rc4
-
-projects[robotstxt][subdir] = contrib
-projects[robotstxt][version] = 1.1
 
 projects[rules][subdir] = contrib
 projects[rules][version] = 2.6
@@ -312,20 +297,6 @@ projects[quickpay][version] = 1.9
 
 projects[visualization][subdir] = contrib
 projects[visualization][version] = 1.0-alpha1
-
-;;;;;;;;;;;;;
-; Performance
-;;;;;;;;;;;;;
-
-projects[cdn][subdir] = contrib 
-projects[cdn][version] = 2.6
-projects[cdn][patch][1942230] = https://drupal.org/files/cdn-1942230-18-advagg-hooks.patch
-
-projects[httprl][subdir] = contrib 
-projects[httprl][version] = 1.12
-
-projects[entitycache][subdir] = contrib 
-projects[entitycache][version] = 1.2
 
 ;;;;;;;;;
 ; Internationalization
