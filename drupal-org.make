@@ -27,12 +27,6 @@ projects[media_youtube][download][type] = git
 projects[media_youtube][download][revision] = fab87ce15d44a0a41d1fb908ace7983c7d28693c
 projects[media_youtube][download][branch] = 7.x-2.x
 
-projects[migrate][subdir] = contrib
-projects[migrate][version] = 2.x-dev
-projects[migrate][download][type] = git
-projects[migrate][download][revision] = 21895c810fc4beafe61389033445cb3b97586f05
-projects[migrate][download][branch] = 7.x-2.x
-
 projects[wysiwyg][version] = 2.x-dev
 projects[wysiwyg][subdir] = contrib
 projects[wysiwyg][download][type] = git
