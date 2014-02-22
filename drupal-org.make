@@ -27,6 +27,12 @@ projects[media_youtube][download][type] = git
 projects[media_youtube][download][revision] = fab87ce15d44a0a41d1fb908ace7983c7d28693c
 projects[media_youtube][download][branch] = 7.x-2.x
 
+projects[migrate][subdir] = contrib
+projects[migrate][version] = 2.x-dev
+projects[migrate][download][type] = git
+projects[migrate][download][revision] = 21895c810fc4beafe61389033445cb3b97586f05
+projects[migrate][download][branch] = 7.x-2.x
+
 projects[wysiwyg][version] = 2.x-dev
 projects[wysiwyg][subdir] = contrib
 projects[wysiwyg][download][type] = git
@@ -149,12 +155,6 @@ libraries[mailchimp][destination] = "libraries"
 
 projects[metatag][subdir] = contrib
 projects[metatag][version] = 1.0-beta9
-
-projects[migrate][subdir] = contrib
-projects[migrate][version] = 2.x-dev
-projects[migrate][download][type] = git
-projects[migrate][download][revision] = 21895c810fc4beafe61389033445cb3b97586f05
-projects[migrate][download][branch] = 7.x-2.x
 
 projects[mollom][subdir] = contrib
 projects[mollom][version] = 2.8
