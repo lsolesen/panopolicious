@@ -68,13 +68,6 @@ projects[token][version] = 1.5
 projects[transliteration][subdir] = contrib
 projects[transliteration][version] = 3.1
 
-;;;;;;;:; 
-; BOA
-;;;;;;;;;
-
-projects[views_content_cache][subdir] = contrib
-projects[views_content_cache][version] = 3.0-alpha3
-
 ;;;;;;;;;
 ; Modules
 ;;;;;;;;;
@@ -204,7 +197,7 @@ projects[addressfield_tokens][version] = 1.3
 ;;;;;;;;;;;;;
 
 projects[commerce][subdir] = contrib  
-projects[commerce][version] = 1.8
+projects[commerce][version] = 1.9
 projects[commerce][patch][840786] = http://drupal.org/files/840786-add-account-info-2.patch
 
 projects[commerce_addressbook][subdir] = contrib
