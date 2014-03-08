@@ -68,9 +68,6 @@ projects[scheduler][version] = 1.2
 projects[token][subdir] = contrib
 projects[token][version] = 1.5
 
-projects[transliteration][subdir] = contrib
-projects[transliteration][version] = 3.1
-
 ;;;;;;;;;
 ; Modules
 ;;;;;;;;;
@@ -294,6 +291,9 @@ projects[visualization][version] = 1.0-alpha1
 
 projects[i18n][version] = 1.10
 projects[i18n][subdir] = contrib
+
+projects[transliteration][subdir] = contrib
+projects[transliteration][version] = 3.1
 
 ;;;;;;;;;
 ; Themes
