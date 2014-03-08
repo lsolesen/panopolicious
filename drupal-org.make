@@ -8,7 +8,7 @@ projects[panopoly_news][version] = 1.2
 projects[panopoly_seo][version] = 1.x-dev
 projects[panopoly_seo][subdir] = contrib
 projects[panopoly_seo][download][type] = git
-projects[panopoly_seo][download][revision] = f8bdfa12d1268365dc82b48c396c17c634a8a040
+projects[panopoly_seo][download][revision] = 2a2bdbed9b4e9975108e3164acdfbfb4cd49863c
 projects[panopoly_seo][download][branch] = 7.x-1.x
 
 ;;;;;;;;;;
@@ -54,13 +54,6 @@ projects[diff][download][branch] = 7.x-3.x
 
 projects[entityqueue][version] = 1.0-alpha1
 projects[entityqueue][subdir] = contrib
-
-projects[redirect][version] = 1.x-dev
-projects[redirect][subdir] = contrib
-projects[redirect][download][type] = git
-projects[redirect][download][revision] = 0b7b8dc2d58cb277874d87c91c45f0a361e148f7
-projects[redirect][download][branch] = 7.x-1.x
-projects[redirect][patch][1796596] = http://drupal.org/files/redirect-circular-1796596-8.patch
 
 projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.2
