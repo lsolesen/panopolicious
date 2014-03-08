@@ -313,10 +313,6 @@ projects[plate][download][revision] = 1d356218dc31678e2c7f0b28ac45c9bcdb27c12c
 projects[plate][download][branch] = 7.x-1.x
 
 projects[chef][subdir] = contrib
-projects[chef][version] = 1.x-dev
-projects[chef][download][type] = git
-projects[chef][download][revision] = d68040dfb082008570e32e5f97b1fc5f26761343
-projects[chef][download][branch] = 7.x-1.x
-projects[chef][patch][2124275] = https://drupal.org/files/issue-2124275.patch
+projects[chef][version] = 1.0
 projects[chef][patch][2118989] = https://drupal.org/files/issue-2118989.patch
-projects[chef][patch][2068575] = https://drupal.org/files/issue-2068575.patch
+
