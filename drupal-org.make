@@ -5,6 +5,12 @@
 projects[panopoly_news][subdir] = panopoly
 projects[panopoly_news][version] = 1.2
 
+projects[panopoly_seo][version] = 1.x-dev
+projects[panopoly_seo][subdir] = contrib
+projects[panopoly_seo][download][type] = git
+projects[panopoly_seo][download][revision] = 3dfab8f220a3c3c1ef4280f3a41e03a1865d1b21
+projects[panopoly_seo][download][branch] = 7.x-1.x
+
 ;;;;;;;;;;
 ; UNTIL PANOPOLY CATCHES UP
 ;;;;;;;;;;
@@ -102,9 +108,6 @@ projects[features_override][subdir] = contrib
 projects[job_scheduler][subdir] = contrib
 projects[job_scheduler][version] = 2.0-alpha3
 
-projects[globalredirect][subdir] = contrib
-projects[globalredirect][version] = 1.5
-
 projects[google_analytics][subdir] = contrib
 projects[google_analytics][version] = 1.4
 
@@ -124,9 +127,6 @@ libraries[mailchimp][download][type] = "get"
 libraries[mailchimp][download][url] = "https://github.com/lsolesen/mailchimp-api-class/archive/v.1.3.2.zip"
 libraries[mailchimp][directory_name] = "mailchimp"
 libraries[mailchimp][destination] = "libraries"
-
-projects[metatag][subdir] = contrib
-projects[metatag][version] = 1.0-beta9
 
 projects[mollom][subdir] = contrib
 projects[mollom][version] = 2.8
