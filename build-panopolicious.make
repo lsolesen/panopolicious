@@ -5,7 +5,7 @@ includes[] = https://raw.github.com/lsolesen/panopolicious/7.x-1.x/drupal-org-co
 
 ; Panopoly
 projects[panopoly][type] = profile
-projects[panopoly][version] = 1.1
+projects[panopoly][version] = 1.2
 
 ; Additional modules
 includes[] = https://raw.github.com/lsolesen/panopolicious/7.x-1.x/drupal-org.make
