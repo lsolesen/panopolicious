@@ -3,10 +3,7 @@
 ;;;;;;;;;;
 
 projects[panopoly_news][subdir] = panopoly
-projects[panopoly_news][version] = 1.x-dev
-projects[panopoly_news][download][type] = git
-projects[panopoly_news][download][revision] = 22d7aad7d2c023705037ae16ffd0cf496b94e1c1
-projects[panopoly_news][download][branch] = 7.x-1.x
+projects[panopoly_news][version] = 1.2
 
 ;;;;;;;;;;
 ; UNTIL PANOPOLY CATCHES UP
