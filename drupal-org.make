@@ -5,7 +5,7 @@
 projects[panopoly_news][subdir] = panopoly
 projects[panopoly_news][version] = 1.2
 
-;projects[panopoly_seo][version] = 1.x-dev
+projects[panopoly_seo][version] = 1.x-dev
 projects[panopoly_seo][subdir] = contrib
 projects[panopoly_seo][download][type] = git
 projects[panopoly_seo][download][revision] = f8bdfa12d1268365dc82b48c396c17c634a8a040
