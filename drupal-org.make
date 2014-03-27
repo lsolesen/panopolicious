@@ -59,8 +59,17 @@ projects[scheduler][version] = 1.2
 ; Modules
 ;;;;;;;;;
 
+projects[coffee][version] = 2.x-dev
 projects[coffee][subdir] = contrib
-projects[coffee][version] = 2.0
+projects[coffee][download][type] = git
+projects[coffee][download][revision] = e726e1270e45470430d2216eaf29efc2af56d555
+projects[coffee][download][branch] = 7.x-2.x
+
+projects[coffee_commerce][version] = 1.x-dev
+projects[coffee_commerce][subdir] = contrib
+projects[coffee_commerce][download][type] = git
+projects[coffee_commerce][download][revision] = 1342d68
+projects[coffee_commerce][download][branch] = 7.x-1.x
 
 projects[colorbox][version] = 2.x-dev
 projects[colorbox][subdir] = contrib
