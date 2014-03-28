@@ -105,10 +105,7 @@ projects[google_analytics][subdir] = contrib
 projects[google_analytics][version] = 1.4
 
 projects[l10n_update][subdir] = contrib
-projects[l10n_update][version] = 1.x-dev
-projects[l10n_update][download][type] = git
-projects[l10n_update][download][revision] = 20a80d1487dce4afad8b8b5a00b5aea5f2b9f2bc
-projects[l10n_update][download][branch] = 7.x-1.x
+projects[l10n_update][version] = 1.0-rc2
 
 projects[logintoboggan][subdir] = contrib
 projects[logintoboggan][version] = 1.3
