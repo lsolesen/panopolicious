@@ -245,7 +245,7 @@ projects[commerce_custom_product][version] = 1.0-beta2
 projects[commerce_discount][subdir] = contrib  
 projects[commerce_discount][version] = 1.x-dev
 projects[commerce_discount][download][type] = git
-projects[commerce_discount][download][revision] = 986df2c879be1926fda0936d68fd3e72ef4ea92a
+projects[commerce_discount][download][revision] = 8afcb3f
 projects[commerce_discount][download][branch] = 7.x-1.x
 
 projects[commerce_features][subdir] = contrib
