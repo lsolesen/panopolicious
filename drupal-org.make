@@ -286,7 +286,7 @@ projects[radix_core][version] = 2.x-dev
 projects[radix_core][download][type] = git
 projects[radix_core][download][revision] = 9d3eb0e59e22eb733a1dbf9360419994a03f449b
 projects[radix_core][download][branch] = 7.x-2.x
-projects[radix_core][patch][2215313] = https://drupal.org/files/issues/issue-2215313-1.patch
+projects[radix_core][patch][2215313] = http://drupal.org/files/issues/issue-2215313-1.patch
 
 projects[plate][subdir] = contrib
 projects[plate][version] = 1.x-dev
@@ -296,5 +296,7 @@ projects[plate][download][branch] = 7.x-1.x
 
 projects[chef][subdir] = contrib
 projects[chef][version] = 1.0
-projects[chef][patch][2118989] = https://drupal.org/files/issue-2118989.patch
+projects[chef][patch][2118989] = http://drupal.org/files/issue-2118989.patch
+projects[chef][patch][2233497] = http://drupal.org/files/issues/issue-2233497.patch
+
 
