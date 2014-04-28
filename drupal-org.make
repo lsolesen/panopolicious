@@ -140,7 +140,7 @@ projects[variable][subdir] = contrib
 projects[variable][version] = 2.4
 
 projects[webform][subdir] = contrib
-projects[webform][version] = 4.0-beta3
+projects[webform][version] = 4.0-rc3
 
 projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 2.0-beta1
