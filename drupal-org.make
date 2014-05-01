@@ -56,6 +56,9 @@ projects[scheduler][version] = 1.2
 ; Modules
 ;;;;;;;;;
 
+projects[adminrole][subdir] = contrib
+projects[adminrole][version] = 1.0
+
 projects[coffee][version] = 2.x-dev
 projects[coffee][subdir] = contrib
 projects[coffee][download][type] = git
