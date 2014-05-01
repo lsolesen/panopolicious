@@ -144,7 +144,7 @@ projects[userreport][subdir] = contrib
 projects[userreport][version] = 1.0-alpha4
 
 projects[variable][subdir] = contrib
-projects[variable][version] = 2.4
+projects[variable][version] = 2.5
 
 projects[webform][subdir] = contrib
 projects[webform][version] = 4.0-rc3
@@ -273,7 +273,7 @@ projects[visualization][version] = 1.0-alpha1
 ; Internationalization
 ;;;;;;;;;
 
-projects[i18n][version] = 1.10
+projects[i18n][version] = 1.11
 projects[i18n][subdir] = contrib
 
 projects[transliteration][subdir] = contrib
