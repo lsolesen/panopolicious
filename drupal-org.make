@@ -7,7 +7,7 @@ core = 7.x
 
 projects[panopoly_news][subdir] = panopoly
 projects[panopoly_news][version] = 1.2
-projects[panopoly_news][patch][2256489] = https://drupal.org/files/issues/issue-2256489.patch
+projects[panopoly_news][patch][2256489] = http://drupal.org/files/issues/issue-2256489.patch
 
 projects[panopoly_seo][version] = 1.x-dev
 projects[panopoly_seo][subdir] = contrib
@@ -160,7 +160,7 @@ projects[views_responsive_grid][version] = 1.3
 
 projects[views_slideshow][subdir] = contrib
 projects[views_slideshow][version] = 3.1
-projects[views_slideshow][patch][2252161] = https://drupal.org/files/issues/issue-2252161_0.patch
+projects[views_slideshow][patch][2252161] = http://drupal.org/files/issues/issue-2252161_0.patch
 
 ;;;;;;;;;;;;;
 ; Fields
@@ -303,6 +303,6 @@ projects[chef][download][type] = git
 projects[chef][download][revision] = 8235b76
 projects[chef][download][branch] = 7.x-1.x
 ; not including the issue number in the array as they need to run in this order
-projects[chef][patch][] = https://drupal.org/files/issues/issue-2250837.patch
-projects[chef][patch][] = https://drupal.org/files/issues/issue-2118989_0.patch
+projects[chef][patch][] = http://drupal.org/files/issues/issue-2250837.patch
+projects[chef][patch][] = http://drupal.org/files/issues/issue-2118989_0.patch
 
