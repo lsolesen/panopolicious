@@ -304,5 +304,5 @@ projects[chef][download][revision] = 8235b76
 projects[chef][download][branch] = 7.x-1.x
 ; not including the issue number in the array as they need to run in this order
 projects[chef][patch][] = https://drupal.org/files/issues/issue-2250837.patch
-projects[chef][patch][] = https://drupal.org/files/issues/issue-2118989.patch
+projects[chef][patch][] = https://drupal.org/files/issues/issue-2118989_0.patch
 
