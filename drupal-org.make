@@ -301,4 +301,4 @@ projects[chef][version] = 1.x-dev
 projects[chef][download][type] = git
 projects[chef][download][revision] = 8235b76
 projects[chef][download][branch] = 7.x-1.x
-;projects[chef][patch][2118989] = http://drupal.org/files/issue-2118989.patch
+projects[chef][patch][2250837] = https://drupal.org/files/issues/issue-2250837.patch
