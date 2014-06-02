@@ -239,7 +239,7 @@ projects[commerce_donate][download][type] = "git"
 projects[commerce_donate][download][branch] = "7.x-1.x"
 projects[commerce_donate][download][revision] = "18a6b8e"
 projects[commerce_donate][patch][2062285] = https://drupal.org/files/commerce_donate-Fix-default-in-checkout-2062285-3.patch
-projects[commerce_donate][patch][1851196] = https://drupal.org/files/issues/issue-1851196.patch
+projects[commerce_donate][patch][1851196] = https://drupal.org/files/issues/issue-1851196_0.patch
 
 projects[commerce_features][subdir] = contrib
 projects[commerce_features][version] = 1.0
