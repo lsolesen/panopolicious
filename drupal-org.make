@@ -239,6 +239,12 @@ projects[commerce_discount][download][type] = git
 projects[commerce_discount][download][revision] = 8afcb3f
 projects[commerce_discount][download][branch] = 7.x-1.x
 
+projects[commerce_donate][subdir] = "contrib"
+projects[commerce_donate][version] = "1.x-dev"
+projects[commerce_donate][download][type] = "git"
+projects[commerce_donate][download][branch] = "7.x-1.x"
+projects[commerce_donate][download][revision] = "18a6b8e"
+
 projects[commerce_features][subdir] = contrib
 projects[commerce_features][version] = 1.0
 
