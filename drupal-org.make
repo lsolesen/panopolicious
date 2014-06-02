@@ -200,12 +200,6 @@ projects[commerce_bank_transfer][subdir] = contrib
 projects[commerce_bank_transfer][version] = 1.0-alpha3
 projects[commerce_bank_transfer][patch][1788790] = http://drupal.org/files/issue-1788790.patch
 
-projects[commerce_donate][subdir] = contrib
-projects[commerce_donate][version] = 1.x-dev
-projects[commerce_donate][download][type] = git
-projects[commerce_donate][download][revision] = 18a6b8e2520810b84919755850879b450647cfe2
-projects[commerce_donate][download][branch] = 7.x-1.x
-
 projects[eva][subdir] = contrib
 projects[eva][version] = 1.x-dev
 projects[eva][download][type] = git
