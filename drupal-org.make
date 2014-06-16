@@ -87,7 +87,7 @@ projects[email][download][branch] = 7.x-1.x
 projects[feeds][version] = 2.x-dev
 projects[feeds][subdir] = contrib
 projects[feeds][download][type] = git
-projects[feeds][download][revision] = bd71821a84740a21075e49f5b23a250da586bb67
+projects[feeds][download][revision] = 3fa9752
 projects[feeds][download][branch] = 7.x-2.x
 
 projects[features_override][version] = 2.0-rc1
