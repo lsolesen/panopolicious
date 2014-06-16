@@ -170,7 +170,7 @@ projects[addressfield][subdir] = contrib
 projects[addressfield][version] = 1.0-beta5
 
 projects[addressfield_tokens][subdir] = contrib
-projects[addressfield_tokens][version] = 1.3
+projects[addressfield_tokens][version] = 1.4
 
 ;;;;;;;;;;;;;
 ; Commerce
