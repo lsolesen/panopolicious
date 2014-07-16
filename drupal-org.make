@@ -97,7 +97,7 @@ projects[job_scheduler][subdir] = contrib
 projects[job_scheduler][version] = 2.0-alpha3
 
 projects[google_analytics][subdir] = contrib
-projects[google_analytics][version] = 1.4
+projects[google_analytics][version] = 2.0
 
 projects[l10n_update][subdir] = contrib
 projects[l10n_update][version] = 1.0-rc2
