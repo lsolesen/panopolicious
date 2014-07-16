@@ -129,7 +129,7 @@ projects[select_or_other][subdir] = contrib
 projects[select_or_other][version] = 2.20
 
 projects[site_verify][subdir] = contrib
-projects[site_verify][version] = 1.0
+projects[site_verify][version] = 1.1
 
 projects[stringoverrides][subdir] = contrib
 projects[stringoverrides][version] = 1.8
