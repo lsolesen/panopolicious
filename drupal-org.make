@@ -12,7 +12,7 @@ projects[panopoly_news][patch][2256489] = http://drupal.org/files/issues/issue-2
 projects[panopoly_seo][version] = 1.x-dev
 projects[panopoly_seo][subdir] = contrib
 projects[panopoly_seo][download][type] = git
-projects[panopoly_seo][download][revision] = a36fd3b
+projects[panopoly_seo][download][revision] = 5d0f180
 projects[panopoly_seo][download][branch] = 7.x-1.x
 
 ;;;;;;;;;;
