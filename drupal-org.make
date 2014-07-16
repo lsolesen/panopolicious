@@ -47,7 +47,7 @@ projects[diff][download][type] = git
 projects[diff][download][revision] = 29ca19a003bfa1cb3fd4a86fe20aacae72e90767
 projects[diff][download][branch] = 7.x-3.x
 
-projects[entityqueue][version] = 1.0-alpha1
+projects[entityqueue][version] = 1.0-alpha3
 projects[entityqueue][subdir] = contrib
 
 projects[scheduler][subdir] = contrib
@@ -66,11 +66,8 @@ projects[coffee][download][type] = git
 projects[coffee][download][revision] = e726e1270e45470430d2216eaf29efc2af56d555
 projects[coffee][download][branch] = 7.x-2.x
 
-projects[colorbox][version] = 2.x-dev
+projects[colorbox][version] = 2.7
 projects[colorbox][subdir] = contrib
-projects[colorbox][download][type] = git
-projects[colorbox][download][revision] = ce90f5dc259793c6762185091320cc5af169ae77
-projects[colorbox][download][branch] = 7.x-2.x
 
 projects[date_ical][subdir] = contrib
 projects[date_ical][version] = 2.13
@@ -100,10 +97,10 @@ projects[google_analytics][subdir] = contrib
 projects[google_analytics][version] = 2.0
 
 projects[l10n_update][subdir] = contrib
-projects[l10n_update][version] = 1.0-rc2
+projects[l10n_update][version] = 1.0
 
 projects[logintoboggan][subdir] = contrib
-projects[logintoboggan][version] = 1.3
+projects[logintoboggan][version] = 1.4
 
 projects[mailchimp][subdir] = contrib
 projects[mailchimp][version] = 2.12
@@ -114,7 +111,7 @@ libraries[mailchimp][directory_name] = "mailchimp"
 libraries[mailchimp][destination] = "libraries"
 
 projects[mollom][subdir] = contrib
-projects[mollom][version] = 2.8
+projects[mollom][version] = 2.10
 
 projects[panels_extra_styles][subdir] = contrib
 projects[panels_extra_styles][version] = 1.1
@@ -147,7 +144,7 @@ projects[variable][subdir] = contrib
 projects[variable][version] = 2.5
 
 projects[webform][subdir] = contrib
-projects[webform][version] = 4.0-rc3
+projects[webform][version] = 4.0-rc4
 
 projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 2.0-beta1
@@ -254,7 +251,7 @@ projects[commerce_mailchimp][download][revision] = e0a57df8a6058b082ecdebfeee903
 projects[commerce_mailchimp][download][branch] = 7.x-1.x
 
 projects[commerce_message][subdir] = contrib
-projects[commerce_message][version] = 1.0-rc1
+projects[commerce_message][version] = 1.0-rc3
 
 projects[commerce_reports][subdir] = contrib
 projects[commerce_reports][version] = 3.0-beta2
