@@ -19,12 +19,6 @@ projects[panopoly_seo][download][branch] = 7.x-1.x
 ; UNTIL PANOPOLY CATCHES UP
 ;;;;;;;;;;
 
-projects[media][version] = 2.x-dev
-projects[media][subdir] = contrib
-projects[media][download][type] = git
-projects[media][download][revision] = 2f828ea761103c49197a50aaeac9b98a350a559b
-projects[media][download][branch] = 7.x-2.x
-
 projects[wysiwyg][version] = 2.x-dev
 projects[wysiwyg][subdir] = contrib
 projects[wysiwyg][download][type] = git
