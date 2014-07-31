@@ -276,9 +276,6 @@ projects[visualization][version] = 1.0-alpha1
 projects[i18n][version] = 1.11
 projects[i18n][subdir] = contrib
 
-projects[transliteration][subdir] = contrib
-projects[transliteration][version] = 3.2
-
 ;;;;;;;;;
 ; Themes
 ;;;;;;;;;
