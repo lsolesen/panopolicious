@@ -12,7 +12,7 @@ projects[panopoly_news][patch][2256489] = http://drupal.org/files/issues/issue-2
 projects[panopoly_seo][version] = 1.x-dev
 projects[panopoly_seo][subdir] = contrib
 projects[panopoly_seo][download][type] = git
-projects[panopoly_seo][download][revision] = 5d0f180
+projects[panopoly_seo][download][revision] = b94e9ba
 projects[panopoly_seo][download][branch] = 7.x-1.x
 
 ;;;;;;;;;;
@@ -138,7 +138,7 @@ projects[variable][subdir] = contrib
 projects[variable][version] = 2.5
 
 projects[webform][subdir] = contrib
-projects[webform][version] = 4.0-rc4
+projects[webform][version] = 4.0-rc6
 
 projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 2.0-beta1
