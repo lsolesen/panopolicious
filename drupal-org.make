@@ -248,6 +248,12 @@ projects[commerce_mailchimp][download][branch] = 7.x-1.x
 projects[commerce_message][subdir] = contrib
 projects[commerce_message][version] = 1.0-rc3
 
+projects[commerce_migrate][subdir] = contrib
+projects[commerce_migrate][version] = 1.x-dev
+projects[commerce_migrate][download][type] = git
+projects[commerce_migrate][download][revision] = 770b20e
+projects[commerce_migrate][download][branch] = 7.x-1.x
+
 projects[commerce_reports][subdir] = contrib
 projects[commerce_reports][version] = 3.0-beta2
 
