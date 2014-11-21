@@ -60,7 +60,7 @@ projects[coffee][download][type] = git
 projects[coffee][download][revision] = e726e1270e45470430d2216eaf29efc2af56d555
 projects[coffee][download][branch] = 7.x-2.x
 
-projects[colorbox][version] = 2.7
+projects[colorbox][version] = 2.8
 projects[colorbox][subdir] = contrib
 
 projects[date_ical][subdir] = contrib
@@ -138,7 +138,7 @@ projects[variable][subdir] = contrib
 projects[variable][version] = 2.5
 
 projects[webform][subdir] = contrib
-projects[webform][version] = 4.0-rc6
+projects[webform][version] = 4.1
 
 projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 2.0-beta1
@@ -161,7 +161,7 @@ projects[addressfield][subdir] = contrib
 projects[addressfield][version] = 1.0-beta5
 
 projects[addressfield_tokens][subdir] = contrib
-projects[addressfield_tokens][version] = 1.4
+projects[addressfield_tokens][version] = 1.5
 
 ;;;;;;;;;;;;;
 ; Commerce
