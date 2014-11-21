@@ -64,7 +64,7 @@ projects[colorbox][version] = 2.7
 projects[colorbox][subdir] = contrib
 
 projects[date_ical][subdir] = contrib
-projects[date_ical][version] = 2.13
+projects[date_ical][version] = 3.3
 
 projects[easy_social][subdir] = contrib
 projects[easy_social][version] = 2.11
