@@ -88,7 +88,7 @@ projects[job_scheduler][subdir] = contrib
 projects[job_scheduler][version] = 2.0-alpha3
 
 projects[google_analytics][subdir] = contrib
-projects[google_analytics][version] = 2.0
+projects[google_analytics][version] = 2.1
 
 projects[l10n_update][subdir] = contrib
 projects[l10n_update][version] = 1.0
@@ -138,7 +138,7 @@ projects[variable][subdir] = contrib
 projects[variable][version] = 2.5
 
 projects[webform][subdir] = contrib
-projects[webform][version] = 4.1
+projects[webform][version] = 4.2
 
 projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 2.0-beta1
@@ -158,7 +158,7 @@ projects[views_slideshow][patch][2252161] = http://drupal.org/files/issues/issue
 ;;;;;;;;;;;;;
 
 projects[addressfield][subdir] = contrib
-projects[addressfield][version] = 1.0-beta5
+projects[addressfield][version] = 1.0-rc1
 
 projects[addressfield_tokens][subdir] = contrib
 projects[addressfield_tokens][version] = 1.5
