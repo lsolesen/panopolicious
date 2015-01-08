@@ -114,7 +114,7 @@ projects[pdf_reader][subdir] = contrib
 projects[pdf_reader][version] = 1.0-rc5
 
 projects[rules][subdir] = contrib
-projects[rules][version] = 2.7
+projects[rules][version] = 2.8
 
 projects[select_or_other][subdir] = contrib
 projects[select_or_other][version] = 2.20
