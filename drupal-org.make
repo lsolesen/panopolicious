@@ -45,7 +45,7 @@ projects[entityqueue][version] = 1.0-alpha3
 projects[entityqueue][subdir] = contrib
 
 projects[scheduler][subdir] = contrib
-projects[scheduler][version] = 1.2
+projects[scheduler][version] = 1.3
 
 ;;;;;;;;;
 ; Modules
@@ -81,7 +81,7 @@ projects[feeds][download][type] = git
 projects[feeds][download][revision] = 3fa9752
 projects[feeds][download][branch] = 7.x-2.x
 
-projects[features_override][version] = 2.0-rc1
+projects[features_override][version] = 2.0-rc2
 projects[features_override][subdir] = contrib
 
 projects[job_scheduler][subdir] = contrib
@@ -91,7 +91,7 @@ projects[google_analytics][subdir] = contrib
 projects[google_analytics][version] = 2.1
 
 projects[l10n_update][subdir] = contrib
-projects[l10n_update][version] = 1.0
+projects[l10n_update][version] = 1.1
 
 projects[logintoboggan][subdir] = contrib
 projects[logintoboggan][version] = 1.4
@@ -105,7 +105,7 @@ libraries[mailchimp][directory_name] = "mailchimp"
 libraries[mailchimp][destination] = "libraries"
 
 projects[mollom][subdir] = contrib
-projects[mollom][version] = 2.10
+projects[mollom][version] = 2.13
 
 projects[panels_extra_styles][subdir] = contrib
 projects[panels_extra_styles][version] = 1.1
@@ -144,7 +144,7 @@ projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 2.0-beta1
 
 projects[views_data_export][subdir] = contrib
-projects[views_data_export][version] = 3.0-beta7
+projects[views_data_export][version] = 3.0-beta8
 
 projects[views_responsive_grid][subdir] = contrib
 projects[views_responsive_grid][version] = 1.3
@@ -158,7 +158,7 @@ projects[views_slideshow][patch][2252161] = http://drupal.org/files/issues/issue
 ;;;;;;;;;;;;;
 
 projects[addressfield][subdir] = contrib
-projects[addressfield][version] = 1.0-rc1
+projects[addressfield][version] = 1.0
 
 projects[addressfield_tokens][subdir] = contrib
 projects[addressfield_tokens][version] = 1.5
@@ -168,11 +168,11 @@ projects[addressfield_tokens][version] = 1.5
 ;;;;;;;;;;;;;
 
 projects[commerce][subdir] = contrib  
-projects[commerce][version] = 1.10
+projects[commerce][version] = 1.11
 projects[commerce][patch][840786] = http://drupal.org/files/840786-add-account-info-2.patch
 
 projects[commerce_addressbook][subdir] = contrib
-projects[commerce_addressbook][version] = 2.0-rc7
+projects[commerce_addressbook][version] = 2.0-rc8
 
 projects[commerce_add_to_cart_notification][type] = "module"
 projects[commerce_add_to_cart_notification][subdir] = "contrib"
@@ -198,10 +198,10 @@ projects[eva][download][revision] = 43eaba47defcf62cd6cff48c819689b68befa59a
 projects[eva][download][branch] = 7.x-1.x
 
 projects[views_megarow][subdir] = contrib
-projects[views_megarow][version] = 1.3
+projects[views_megarow][version] = 1.4
 
 projects[commerce_cart_expiration][subdir] = contrib  
-projects[commerce_cart_expiration][version] = 1.1
+projects[commerce_cart_expiration][version] = 1.2
 
 projects[commerce_checkout_progress][subdir] = contrib
 projects[commerce_checkout_progress][version] = 1.3
@@ -302,4 +302,3 @@ projects[chef][download][branch] = 7.x-1.x
 ; not including the issue number in the array as they need to run in this order
 projects[chef][patch][] = http://drupal.org/files/issues/issue-2250837.patch
 projects[chef][patch][] = http://drupal.org/files/issues/issue-2118989_0.patch
-
