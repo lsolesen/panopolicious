@@ -280,13 +280,10 @@ projects[i18n][subdir] = contrib
 ; Themes
 ;;;;;;;;;
 
-; Brings Radix, Radix Layouts and Radix Admin
-projects[radix_core][subdir] = contrib
-projects[radix_core][version] = 2.x-dev
-projects[radix_core][download][type] = git
-projects[radix_core][download][revision] = 9d3eb0e59e22eb733a1dbf9360419994a03f449b
-projects[radix_core][download][branch] = 7.x-2.x
-projects[radix_core][patch][2215313] = http://drupal.org/files/issues/issue-2215313-1.patch
+projects[radix][type] = theme
+projects[radix][download][type] = git
+projects[radix][download][revision] = 7082e64
+projects[radix][download][branch] = 7.x-2.x
 
 projects[plate][subdir] = contrib
 projects[plate][version] = 1.x-dev
