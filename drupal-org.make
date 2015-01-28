@@ -273,7 +273,7 @@ projects[visualization][version] = 1.0-alpha1
 ; Internationalization
 ;;;;;;;;;
 
-projects[i18n][version] = 1.11
+projects[i18n][version] = 1.12
 projects[i18n][subdir] = contrib
 
 ;;;;;;;;;
