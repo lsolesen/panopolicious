@@ -84,6 +84,9 @@ projects[feeds][download][branch] = 7.x-2.x
 projects[features_override][version] = 2.0-rc2
 projects[features_override][subdir] = contrib
 
+projects[honeypot][version] = 1.17
+projects[honeypot][subdir] = contrib
+
 projects[job_scheduler][subdir] = contrib
 projects[job_scheduler][version] = 2.0-alpha3
 
