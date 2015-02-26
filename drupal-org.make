@@ -43,6 +43,7 @@ projects[diff][download][branch] = 7.x-3.x
 
 projects[entityqueue][version] = 1.0-alpha3
 projects[entityqueue][subdir] = contrib
+projects[entityqueue][patch][2153205] = https://www.drupal.org/files/issues/entityqueue-fieldexception-create-instance-2153205-12-do-not-test.patch
 
 projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.3
