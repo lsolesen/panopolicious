@@ -29,11 +29,8 @@ projects[wysiwyg][download][branch] = 7.x-2.x
 ; Modules used in Buildthat
 ;;;;;;;;;
 
-projects[calendar][version] = 3.x-dev
+projects[calendar][version] = 3.5
 projects[calendar][subdir] = contrib
-projects[calendar][download][type] = git
-projects[calendar][download][revision] = 17fceb75ad1d0e9ae6d4ec0004cdcfbac2f8ac56
-projects[calendar][download][branch] = 7.x-3.x
 
 projects[diff][version] = 3.x-dev
 projects[diff][subdir] = contrib
@@ -41,9 +38,8 @@ projects[diff][download][type] = git
 projects[diff][download][revision] = 29ca19a003bfa1cb3fd4a86fe20aacae72e90767
 projects[diff][download][branch] = 7.x-3.x
 
-projects[entityqueue][version] = 1.0-alpha3
+projects[entityqueue][version] = 1.0-rc1
 projects[entityqueue][subdir] = contrib
-projects[entityqueue][patch][2153205] = https://www.drupal.org/files/issues/entityqueue-fieldexception-create-instance-2153205-12-do-not-test.patch
 
 projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.3
@@ -71,10 +67,7 @@ projects[easy_social][subdir] = contrib
 projects[easy_social][version] = 2.11
 
 projects[email][subdir] = contrib
-projects[email][version] = 1.x-dev
-projects[email][download][type] = git
-projects[email][download][revision] = b4b5ec995e9a1ea55e1fca7fa57f54e4e95960b2
-projects[email][download][branch] = 7.x-1.x
+projects[email][version] = 1.3
 
 projects[feeds][version] = 2.x-dev
 projects[feeds][subdir] = contrib
@@ -118,10 +111,10 @@ projects[pdf_reader][subdir] = contrib
 projects[pdf_reader][version] = 1.0-rc5
 
 projects[rules][subdir] = contrib
-projects[rules][version] = 2.8
+projects[rules][version] = 2.9
 
 projects[select_or_other][subdir] = contrib
-projects[select_or_other][version] = 2.20
+projects[select_or_other][version] = 2.21
 
 projects[site_verify][subdir] = contrib
 projects[site_verify][version] = 1.1
