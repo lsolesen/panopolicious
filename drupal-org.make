@@ -155,7 +155,7 @@ projects[views_slideshow][patch][2252161] = http://drupal.org/files/issues/issue
 ;;;;;;;;;;;;;
 
 projects[addressfield][subdir] = contrib
-projects[addressfield][version] = 1.0-rc1
+projects[addressfield][version] = 1.1
 
 projects[addressfield_tokens][subdir] = contrib
 projects[addressfield_tokens][version] = 1.5
