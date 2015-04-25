@@ -264,7 +264,7 @@ projects[quickpay][subdir] = contrib
 projects[quickpay][version] = 1.11
 
 projects[visualization][subdir] = contrib
-projects[visualization][version] = 1.0-alpha1
+projects[visualization][version] = 1.0-beta1
 
 ;;;;;;;;;
 ; Internationalization
