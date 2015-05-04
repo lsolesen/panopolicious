@@ -91,7 +91,7 @@ projects[l10n_update][subdir] = contrib
 projects[l10n_update][version] = 1.1
 
 projects[logintoboggan][subdir] = contrib
-projects[logintoboggan][version] = 1.4
+projects[logintoboggan][version] = 1.5
 
 projects[mailchimp][subdir] = contrib
 projects[mailchimp][version] = 2.12
@@ -135,7 +135,7 @@ projects[variable][subdir] = contrib
 projects[variable][version] = 2.5
 
 projects[webform][subdir] = contrib
-projects[webform][version] = 4.7
+projects[webform][version] = 4.8
 
 projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 2.0-beta1
