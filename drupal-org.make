@@ -38,7 +38,7 @@ projects[diff][download][type] = git
 projects[diff][download][revision] = 29ca19a003bfa1cb3fd4a86fe20aacae72e90767
 projects[diff][download][branch] = 7.x-3.x
 
-projects[entityqueue][version] = 1.0-rc1
+projects[entityqueue][version] = 1.0
 projects[entityqueue][subdir] = contrib
 
 projects[scheduler][subdir] = contrib
@@ -114,7 +114,7 @@ projects[rules][subdir] = contrib
 projects[rules][version] = 2.9
 
 projects[select_or_other][subdir] = contrib
-projects[select_or_other][version] = 2.21
+projects[select_or_other][version] = 2.22
 
 projects[site_verify][subdir] = contrib
 projects[site_verify][version] = 1.1
@@ -135,7 +135,7 @@ projects[variable][subdir] = contrib
 projects[variable][version] = 2.5
 
 projects[webform][subdir] = contrib
-projects[webform][version] = 4.8
+projects[webform][version] = 4.9
 
 projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 2.0-beta1
