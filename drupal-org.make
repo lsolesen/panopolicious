@@ -274,7 +274,8 @@ projects[i18n][subdir] = contrib
 ; Themes
 ;;;;;;;;;
 
-projects[radix][type] = theme
+projects[radix][subdir] = contrib
+projects[radix][version] = 2.x-dev
 projects[radix][download][type] = git
 projects[radix][download][revision] = 7082e64
 projects[radix][download][branch] = 7.x-2.x
