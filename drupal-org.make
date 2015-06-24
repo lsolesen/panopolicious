@@ -69,11 +69,8 @@ projects[easy_social][version] = 2.11
 projects[email][subdir] = contrib
 projects[email][version] = 1.3
 
-projects[feeds][version] = 2.x-dev
+projects[feeds][version] = 2.0-alpha9
 projects[feeds][subdir] = contrib
-projects[feeds][download][type] = git
-projects[feeds][download][revision] = 3fa9752
-projects[feeds][download][branch] = 7.x-2.x
 
 projects[features_override][version] = 2.0-rc2
 projects[features_override][subdir] = contrib
