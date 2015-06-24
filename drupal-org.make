@@ -57,7 +57,7 @@ projects[coffee][download][type] = git
 projects[coffee][download][revision] = e726e1270e45470430d2216eaf29efc2af56d555
 projects[coffee][download][branch] = 7.x-2.x
 
-projects[colorbox][version] = 2.8
+projects[colorbox][version] = 2.9
 projects[colorbox][subdir] = contrib
 
 projects[date_ical][subdir] = contrib
