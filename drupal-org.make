@@ -255,7 +255,7 @@ projects[commerce_stock][subdir] = contrib
 projects[commerce_stock][version] = 1.2
 
 projects[inline_entity_form][subdir] = contrib
-projects[inline_entity_form][version] = 1.5
+projects[inline_entity_form][version] = 1.6
 
 projects[quickpay][subdir] = contrib
 projects[quickpay][version] = 1.11
