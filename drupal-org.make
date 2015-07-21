@@ -9,11 +9,8 @@ projects[panopoly_news][subdir] = panopoly
 projects[panopoly_news][version] = 1.2
 projects[panopoly_news][patch][2256489] = http://drupal.org/files/issues/issue-2256489.patch
 
-projects[panopoly_seo][version] = 1.x-dev
+projects[panopoly_seo][version] = 1.0-beta3
 projects[panopoly_seo][subdir] = panopoly
-projects[panopoly_seo][download][type] = git
-projects[panopoly_seo][download][revision] = 9a85d2f
-projects[panopoly_seo][download][branch] = 7.x-1.x
 
 ;;;;;;;;;;
 ; UNTIL PANOPOLY CATCHES UP
