@@ -58,7 +58,7 @@ projects[colorbox][version] = 2.9
 projects[colorbox][subdir] = contrib
 
 projects[date_ical][subdir] = contrib
-projects[date_ical][version] = 3.4
+projects[date_ical][version] = 3.5
 
 projects[easy_social][subdir] = contrib
 projects[easy_social][version] = 2.11
@@ -66,7 +66,7 @@ projects[easy_social][version] = 2.11
 projects[email][subdir] = contrib
 projects[email][version] = 1.3
 
-projects[feeds][version] = 2.0-alpha9
+projects[feeds][version] = 2.0-beta1
 projects[feeds][subdir] = contrib
 
 projects[features_override][version] = 2.0-rc2
@@ -129,7 +129,7 @@ projects[variable][subdir] = contrib
 projects[variable][version] = 2.5
 
 projects[webform][subdir] = contrib
-projects[webform][version] = 4.9
+projects[webform][version] = 4.10
 
 projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 2.0-beta1
@@ -272,10 +272,7 @@ projects[i18n][subdir] = contrib
 ;;;;;;;;;
 
 projects[radix][subdir] = contrib
-projects[radix][version] = 2.x-dev
-projects[radix][download][type] = git
-projects[radix][download][revision] = 7082e64
-projects[radix][download][branch] = 7.x-2.x
+projects[radix][version] = 3.0-rc3
 
 projects[plate][subdir] = contrib
 projects[plate][version] = 1.x-dev
