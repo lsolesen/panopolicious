@@ -274,6 +274,18 @@ projects[i18n][subdir] = contrib
 projects[radix][subdir] = contrib
 projects[radix][version] = 3.0-rc3
 
+projects[colorizer][subdir] = contrib
+projects[colorizer][version] = 1.7
+
+projects[radix_colorizer][subdir] = contrib
+projects[radix_colorizer][version] = 1.x-dev
+projects[radix_colorizer][download][type] = git
+projects[radix_colorizer][download][revision] = 29321ae 
+projects[radix_colorizer][download][branch] = 7.x-1.x
+
+projects[radix_stanley][subdir] = contrib
+projects[radix_stanley][version] = 1.2
+
 projects[plate][subdir] = contrib
 projects[plate][version] = 1.x-dev
 projects[plate][download][type] = git
