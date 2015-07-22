@@ -285,18 +285,3 @@ projects[radix_colorizer][download][branch] = 7.x-1.x
 
 projects[radix_stanley][subdir] = contrib
 projects[radix_stanley][version] = 1.2
-
-projects[plate][subdir] = contrib
-projects[plate][version] = 1.x-dev
-projects[plate][download][type] = git
-projects[plate][download][revision] = 1d356218dc31678e2c7f0b28ac45c9bcdb27c12c
-projects[plate][download][branch] = 7.x-1.x
-
-projects[chef][subdir] = contrib
-projects[chef][version] = 1.x-dev
-projects[chef][download][type] = git
-projects[chef][download][revision] = 8235b76
-projects[chef][download][branch] = 7.x-1.x
-; not including the issue number in the array as they need to run in this order
-projects[chef][patch][] = http://drupal.org/files/issues/issue-2250837.patch
-projects[chef][patch][] = http://drupal.org/files/issues/issue-2118989_0.patch
