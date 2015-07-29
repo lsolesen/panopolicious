@@ -163,7 +163,7 @@ projects[commerce][version] = 1.11
 projects[commerce][patch][840786] = http://drupal.org/files/840786-add-account-info-2.patch
 
 projects[commerce_addressbook][subdir] = contrib
-projects[commerce_addressbook][version] = 2.0-rc8
+projects[commerce_addressbook][version] = 2.0-rc9
 
 projects[commerce_add_to_cart_notification][type] = "module"
 projects[commerce_add_to_cart_notification][subdir] = "contrib"
@@ -225,7 +225,7 @@ projects[commerce_donate][patch][1851196] = https://www.drupal.org/files/issues/
 projects[commerce_donate][patch][2278659] = https://www.drupal.org/files/issues/issue-2278659_1.patch
 
 projects[commerce_features][subdir] = contrib
-projects[commerce_features][version] = 1.0
+projects[commerce_features][version] = 1.1
 
 projects[commerce_google_analytics][subdir] = contrib
 projects[commerce_google_analytics][version] = 1.1
