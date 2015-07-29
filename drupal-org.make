@@ -272,7 +272,7 @@ projects[i18n][subdir] = contrib
 ;;;;;;;;;
 
 projects[radix][subdir] = contrib
-projects[radix][version] = 3.0-rc3
+projects[radix][version] = 3.0-rc4
 
 projects[colorizer][subdir] = contrib
 projects[colorizer][version] = 1.7
