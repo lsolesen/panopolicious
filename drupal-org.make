@@ -189,7 +189,7 @@ projects[eva][download][revision] = 43eaba47defcf62cd6cff48c819689b68befa59a
 projects[eva][download][branch] = 7.x-1.x
 
 projects[views_megarow][subdir] = contrib
-projects[views_megarow][version] = 1.4
+projects[views_megarow][version] = 1.5
 
 projects[commerce_cart_expiration][subdir] = contrib  
 projects[commerce_cart_expiration][version] = 1.2
@@ -258,7 +258,7 @@ projects[quickpay][subdir] = contrib
 projects[quickpay][version] = 1.11
 
 projects[visualization][subdir] = contrib
-projects[visualization][version] = 1.0-beta1
+projects[visualization][version] = 1.0-beta2
 
 ;;;;;;;;;
 ; Internationalization
