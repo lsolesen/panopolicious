@@ -35,7 +35,7 @@ projects[diff][download][type] = git
 projects[diff][download][revision] = 29ca19a003bfa1cb3fd4a86fe20aacae72e90767
 projects[diff][download][branch] = 7.x-3.x
 
-projects[entityqueue][version] = 1.0
+projects[entityqueue][version] = 1.1
 projects[entityqueue][subdir] = contrib
 
 projects[scheduler][subdir] = contrib
