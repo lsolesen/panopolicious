@@ -95,11 +95,8 @@ libraries[mailchimp][destination] = "libraries"
 projects[mollom][subdir] = contrib
 projects[mollom][version] = 2.13
 
-projects[oembed][subdir] = contrib
-projects[oembed][version] = 1.x-dev
-projects[oembed][download][type] = git
-projects[oembed][download][revision] = 1664b19
-projects[oembed][download][branch] = 7.x-1.x
+projects[media_oembed][subdir] = contrib
+projects[media_oembed][version] = 2.3
 
 projects[panels_extra_styles][subdir] = contrib
 projects[panels_extra_styles][version] = 1.1
