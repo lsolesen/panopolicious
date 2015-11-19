@@ -129,13 +129,13 @@ projects[variable][subdir] = contrib
 projects[variable][version] = 2.5
 
 projects[webform][subdir] = contrib
-projects[webform][version] = 4.11
+projects[webform][version] = 4.12
 
 projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 2.0-beta1
 
 projects[views_data_export][subdir] = contrib
-projects[views_data_export][version] = 3.0-beta8
+projects[views_data_export][version] = 3.0-beta9
 
 projects[views_responsive_grid][subdir] = contrib
 projects[views_responsive_grid][version] = 1.3
@@ -176,7 +176,7 @@ projects[commerce_autosku][subdir] = contrib
 projects[commerce_autosku][version] = 1.1
 
 projects[commerce_backoffice][subdir] = contrib
-projects[commerce_backoffice][version] = 1.4
+projects[commerce_backoffice][version] = 1.5
 
 projects[commerce_bank_transfer][subdir] = contrib
 projects[commerce_bank_transfer][version] = 1.0-alpha3
@@ -240,10 +240,7 @@ projects[commerce_message][subdir] = contrib
 projects[commerce_message][version] = 1.0-rc3
 
 projects[commerce_migrate][subdir] = contrib
-projects[commerce_migrate][version] = 1.x-dev
-projects[commerce_migrate][download][type] = git
-projects[commerce_migrate][download][revision] = 770b20e
-projects[commerce_migrate][download][branch] = 7.x-1.x
+projects[commerce_migrate][version] = 1.2
 
 projects[commerce_reports][subdir] = contrib
 projects[commerce_reports][version] = 3.0-beta2
