@@ -55,7 +55,7 @@ projects[colorbox][version] = 2.10
 projects[colorbox][subdir] = contrib
 
 projects[date_ical][subdir] = contrib
-projects[date_ical][version] = 3.5
+projects[date_ical][version] = 3.8
 
 projects[easy_social][subdir] = contrib
 projects[easy_social][version] = 2.11
@@ -93,7 +93,7 @@ libraries[mailchimp][directory_name] = "mailchimp"
 libraries[mailchimp][destination] = "libraries"
 
 projects[mollom][subdir] = contrib
-projects[mollom][version] = 2.13
+projects[mollom][version] = 2.15
 
 projects[media_oembed][subdir] = contrib
 projects[media_oembed][version] = 2.3
@@ -280,7 +280,7 @@ projects[radix][subdir] = contrib
 projects[radix][version] = 3.0-rc4
 
 projects[colorizer][subdir] = contrib
-projects[colorizer][version] = 1.7
+projects[colorizer][version] = 1.8
 
 projects[radix_colorizer][subdir] = contrib
 projects[radix_colorizer][version] = 1.x-dev
