@@ -192,7 +192,7 @@ projects[views_megarow][subdir] = contrib
 projects[views_megarow][version] = 1.5
 
 projects[commerce_cart_expiration][subdir] = contrib  
-projects[commerce_cart_expiration][version] = 1.2
+projects[commerce_cart_expiration][version] = 1.3
 
 projects[commerce_checkout_progress][subdir] = contrib
 projects[commerce_checkout_progress][version] = 1.3
