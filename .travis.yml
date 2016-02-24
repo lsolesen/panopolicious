@@ -4,16 +4,22 @@ sudo: false
 php:
   - 5.6
 
+# Cache Composer & Drush directories.
+cache:
+  directories:
+    - $HOME/.composer/cache
+    - $HOME/.drush/cache
+
 mysql:
   database: drupal
   username: root
   encoding: utf8
 
 install:
-  - "mysql -e 'create database drupal;'"
-  - pear channel-discover pear.drush.org
-  - pear install drush/drush
-  - phpenv rehash
+  # Install latest Drush 6.
+  - travis_retry composer self-update && composer --version
+  - travis_retry composer global require "drush/drush:6.*"
+  - export PATH="$HOME/.composer/vendor/bin:$PATH"
 
 before_script:
   - drush make --prepare-install build-panopolicious.make ../vih.dk --yes
