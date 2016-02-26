@@ -63,7 +63,7 @@ projects[easy_social][version] = 2.11
 projects[email][subdir] = contrib
 projects[email][version] = 1.3
 
-projects[feeds][version] = 2.0-beta1
+projects[feeds][version] = 2.0-beta2
 projects[feeds][subdir] = contrib
 
 projects[features_override][version] = 2.0-rc2
