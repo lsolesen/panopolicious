@@ -46,7 +46,7 @@ projects[scheduler][version] = 1.3
 ;;;;;;;;;
 
 projects[adminrole][subdir] = contrib
-projects[adminrole][version] = 1.0
+projects[adminrole][version] = 1.1
 
 projects[coffee][version] = 2.2
 projects[coffee][subdir] = contrib
@@ -85,7 +85,7 @@ projects[logintoboggan][subdir] = contrib
 projects[logintoboggan][version] = 1.5
 
 projects[mailchimp][subdir] = contrib
-projects[mailchimp][version] = 2.12
+projects[mailchimp][version] = 2.13
 
 libraries[mailchimp][download][type] = "get"
 libraries[mailchimp][download][url] = "https://github.com/lsolesen/mailchimp-api-class/archive/v.1.3.2.zip"
