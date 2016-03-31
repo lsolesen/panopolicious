@@ -276,7 +276,7 @@ projects[radix][subdir] = contrib
 projects[radix][version] = 3.0-rc4
 
 projects[colorizer][subdir] = contrib
-projects[colorizer][version] = 1.8
+projects[colorizer][version] = 1.10
 
 projects[radix_colorizer][subdir] = contrib
 projects[radix_colorizer][version] = 1.x-dev
