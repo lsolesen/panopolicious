@@ -281,7 +281,7 @@ projects[radix_colorizer][download][revision] = 29321ae
 projects[radix_colorizer][download][branch] = 7.x-1.x
 
 projects[radix_stanley][subdir] = contrib
-projects[radix_stanley][version] = 1.2
+projects[radix_stanley][version] = 1.3
 
 projects[radix_views][subdir] = contrib
 projects[radix_views][version] = 1.0
