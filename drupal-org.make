@@ -159,7 +159,7 @@ projects[addressfield_tokens][version] = 1.5
 ;;;;;;;;;;;;;
 
 projects[commerce][subdir] = contrib  
-projects[commerce][version] = 1.11
+projects[commerce][version] = 1.13
 projects[commerce][patch][840786] = http://drupal.org/files/840786-add-account-info-2.patch
 
 projects[commerce_addressbook][subdir] = contrib
