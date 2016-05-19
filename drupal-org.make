@@ -189,7 +189,7 @@ projects[eva][download][revision] = 43eaba47defcf62cd6cff48c819689b68befa59a
 projects[eva][download][branch] = 7.x-1.x
 
 projects[views_megarow][subdir] = contrib
-projects[views_megarow][version] = 1.5
+projects[views_megarow][version] = 1.6
 
 projects[commerce_cart_expiration][subdir] = contrib  
 projects[commerce_cart_expiration][version] = 1.3
@@ -225,7 +225,7 @@ projects[commerce_donate][patch][1851196] = https://www.drupal.org/files/issues/
 projects[commerce_donate][patch][2278659] = https://www.drupal.org/files/issues/issue-2278659_1.patch
 
 projects[commerce_features][subdir] = contrib
-projects[commerce_features][version] = 1.1
+projects[commerce_features][version] = 1.2
 
 projects[commerce_google_analytics][subdir] = contrib
 projects[commerce_google_analytics][version] = 1.1
@@ -249,7 +249,7 @@ projects[commerce_stock][subdir] = contrib
 projects[commerce_stock][version] = 1.2
 
 projects[inline_entity_form][subdir] = contrib
-projects[inline_entity_form][version] = 1.6
+projects[inline_entity_form][version] = 1.8
 
 projects[quickpay][subdir] = contrib
 projects[quickpay][version] = 2.0
