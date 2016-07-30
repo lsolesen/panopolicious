@@ -51,7 +51,7 @@ projects[adminrole][version] = 1.1
 projects[coffee][version] = 2.2
 projects[coffee][subdir] = contrib
 
-projects[colorbox][version] = 2.10
+projects[colorbox][version] = 2.12
 projects[colorbox][subdir] = contrib
 
 projects[date_ical][subdir] = contrib
