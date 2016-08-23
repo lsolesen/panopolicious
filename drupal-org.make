@@ -8,7 +8,7 @@ core = 7.x
 projects[panopoly_demo][version] = 1.38
 projects[panopoly_demo][subdir] = panopoly
 
-projects[panopoly_faq][version] = 1.38
+projects[panopoly_faq][version] = 1.1
 projects[panopoly_faq][subdir] = panopoly
 
 projects[panopoly_news][subdir] = panopoly
