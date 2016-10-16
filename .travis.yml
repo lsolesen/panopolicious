@@ -31,3 +31,4 @@ before_script:
 
 script: 
   - test -d ../vih.dk/sites/all/modules/contrib
+  - test -d ../vih.dk/profiles/panopoly
